@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "jdoe",
+      "fullName": "John Doe",
+      "email": "john@mail.com",
+      "password": "123"
+    },
+    {
+      "userName": "Faishal",
+      "fullName": "Faishal Arif",
+      "email": "faishal@gmail.com",
+      "password": "qwerty",
+      "id": 2
+    },
+    {
+      "userName": "asdsd",
+      "fullName": "asdasd",
+      "email": "faishal.arif218@gmail.com",
+      "password": "12323",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "body": "Lorem ipsum",
+      "owner": "jdoe"
+    }
+  ]
+}
